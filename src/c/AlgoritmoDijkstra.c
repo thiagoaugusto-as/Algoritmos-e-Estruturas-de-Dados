@@ -30,7 +30,7 @@
 *  Para valores infinitos será considerado o valor: 4294967295
 * O objetivo é sair do ponto inicial (0) e chegar ao destino (4) pelo caminho mais curto
 * Resposta: (0)->(1)->(3)->(2)->(4) = 12
-*
+di*
 */
 
 #include <stdio.h>
